@@ -1,8 +1,3 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg">
-  <img src="./assets/banner.svg" alt="Useful software — backend, desktop, browser. Engineer and product builder." width="1280">
-</picture>
-
 ### Good tools make complex work feel simple.
 
 I'm **Defrim**, a software engineer in **Pristina, Kosovo**. My work spans Java and Spring Boot, native macOS apps, and browser-based developer tools.
