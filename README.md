@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg">
-  <img src="./assets/banner.svg" alt="Defrim Hasani — engineer and product builder. Useful software, from the backend to the desktop." width="1280">
+  <img src="./assets/banner.svg" alt="Useful software — backend, desktop, browser. Engineer and product builder." width="1280">
 </picture>
 
 ### Good tools make complex work feel simple.
